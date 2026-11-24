@@ -1,10 +1,6 @@
-![Danniel Parra · Desarrollador backend junior en Bogotá](./portada.svg)
+![Danniel Parra · Desarrollador backend junior en Bogotá](./banner.png)
 
 <div align="center">
-
-# Danniel Parra
-
-**Desarrollador backend junior · Bogotá, Colombia**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/java/java-original.svg" width="38" height="38" alt="Java" title="Java"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/spring/spring-original.svg" width="38" height="38" alt="Spring Boot" title="Spring Boot"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/googlecloud/googlecloud-original.svg" width="38" height="38" alt="Google Cloud" title="Google Cloud"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg" width="38" height="38" alt="Azure" title="Azure"> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB" title="MongoDB">
 
