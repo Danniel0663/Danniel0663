@@ -1,3 +1,5 @@
+![Danniel Parra · Desarrollador backend junior en Bogotá](./portada.svg)
+
 <div align="center">
 
 # Danniel Parra
